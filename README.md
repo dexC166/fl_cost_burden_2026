@@ -173,9 +173,9 @@ _(Section 9, household-type heatmap)_
 
 The notebook builds two interactive choropleth maps - hover over any county to see its name, burden rate, and household count. `Left-Click` either static preview image below to view and interact with the live map directly in your browser:
 
-[![Florida cost-burden rate by county](outputs/figures/florida_map_preview.png)](https://dexc166.github.io/fl_cost_burden_2026/outputs/figures/florida_map.html)
+[![Florida cost-burden rate by county](outputs/figures/florida_map_preview.png)](https://dexc166.github.io/fl_cost_burden_analysis_2026/outputs/figures/florida_map.html)
 
-[![Manatee County and neighbors: cost-burdened households](outputs/figures/home_map_preview.png)](https://dexc166.github.io/fl_cost_burden_2026/outputs/figures/home_map.html)
+[![Manatee County and neighbors: cost-burdened households](outputs/figures/home_map_preview.png)](https://dexc166.github.io/fl_cost_burden_analysis_2026/outputs/figures/home_map.html)
 
 ---
 
