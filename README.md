@@ -149,6 +149,7 @@ Answer:
 - Cashiers would need **72%** of their income; even elementary school teachers (36%), paramedics and firefighters (34%) cross the line. Only registered nurses (26%) and police officers (28%) stay under it
 
 _(Section 8, wages vs Fair Market Rent bar chart)_
+Note: The 12 occupations are a representative slice of the ~54 jobs Shimberg includes on Sheet 18. Public safety, healthcare, education, trades, childcare, and service/retail, all carefully chosen so readers can see whether typical local wages, not just abstract income bands, can cover HUD’s 2-bedroom Fair Market Rent on a single paycheck.
 
 ![Share of one median wage needed for a 2-bedroom, by occupation](outputs/figures/wage_vs_rent.png)
 
@@ -172,9 +173,9 @@ _(Section 9, household-type heatmap)_
 
 The notebook also builds two interactive choropleth maps - hover over any county to see its name, burden rate, and household count. GitHub can't run them inside a README, so below are static previews. Click a preview to open the interactive `.html` file (download it and open in your browser).
 
-[![Florida cost-burden rate by county](outputs/figures/florida_map_preview.png)](outputs/figures/florida_map.html)
+[![Florida cost-burden rate by county](outputs/figures/florida_map_preview.png)](https://dexc166.github.io/fl_cost_burden_2026/outputs/figures/florida_map.html)
 
-[![Manatee County and neighbors: cost-burdened households](outputs/figures/home_map_preview.png)](outputs/figures/home_map.html)
+[![Manatee County and neighbors: cost-burdened households](outputs/figures/home_map_preview.png)](https://dexc166.github.io/fl_cost_burden_2026/outputs/figures/home_map.html)
 
 ---
 
