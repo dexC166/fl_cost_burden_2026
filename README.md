@@ -4,6 +4,8 @@
 
 I built this as a portfolio project using Python, real housing data from the **UF Shimberg Center** (my alma mater), and a question I actually care about as a Florida resident.
 
+**Source code:** [github.com/dexC166/fl_cost_burden_analysis_2026](https://github.com/dexC166/fl_cost_burden_analysis_2026) | **Live page:** [dexc166.github.io/fl_cost_burden_analysis_2026](https://dexc166.github.io/fl_cost_burden_analysis_2026/)
+
 ---
 
 ## What is "Cost Burden"? (Plain English)
@@ -211,6 +213,8 @@ FL_Cost_Burden/
 ## Quick Start
 
 ```bash
+git clone https://github.com/dexC166/fl_cost_burden_analysis_2026.git
+cd fl_cost_burden_analysis_2026
 pip install -r requirements.txt
 jupyter notebook notebooks/01_fl_housing_cost_burden_analysis.ipynb
 ```
